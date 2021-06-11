@@ -1,6 +1,10 @@
 .tip-calculator-container {
     background-color: #f9fbfe;
-    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/tip-calculator-img.png");
+    background-image: url("https://wallpaperaccess.com/full/1564372.jpg") no-repeat;
+    width: 100vw;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
     position: relative;
     justify-content: center;
     align-items: center;
@@ -23,7 +27,7 @@
 }
 
 .input-label {
-    color: #7b8794;
+    color: #000;
     font-family: "Roboto";
     font-size: 12px;
     font-weight: bold;
